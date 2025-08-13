@@ -99,7 +99,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@imsiddiqur](https://twitter.com/imsiddiqur) - siddikcoder@gmail.com   
+Md Siddiqur Rahman - [@imsiddiqur](https://twitter.com/imsiddiqur) - siddikcoder@gmail.com   
 
 Project Link: [https://github.com/siddik-web/design-system-token-generator](https://github.com/siddik-web/design-system-token-generator)
 
