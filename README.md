@@ -25,7 +25,7 @@ A modern, user-friendly tool for generating and managing design tokens for your 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/design-token-generator.git
+   git clone https://github.com/siddik-web/design-system-token-generator.git
    cd design-token-generator
    ```
 
@@ -99,9 +99,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Your Name - [@imsiddiqur](https://twitter.com/imsiddiqur) - siddikcoder@gmail.com   
 
-Project Link: [https://github.com/your-username/design-token-generator](https://github.com/your-username/design-token-generator)
+Project Link: [https://github.com/siddik-web/design-system-token-generator](https://github.com/siddik-web/design-system-token-generator)
 
 ## Acknowledgments
 
